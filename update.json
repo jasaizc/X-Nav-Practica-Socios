@@ -1,0 +1,17 @@
+{ "Lista":[
+  {
+    "Autor": " Julian",
+		"Avatar": " http://www.forodefotos.com/attachments/fotos-de-famosos/37545d1345189317-fotos-de-famosos-fotos-de-famosos-george.jpg",
+		"Titulo": " Yo invito al Cafe \n",
+    "Fecha": "17/03/2015 17:40",
+		"Contenido": "Que Viva el vino"
+	},
+  {
+  	"Autor": " Sandra",
+		"Avatar": " http://static.superpop.es/private/superpop-batalla-famosos---justin--taylor-2.jpg",
+		"Titulo": " Eso es!!! fiesta grande!!\n",
+    "Fecha": "17/03/2015 18:37",
+    "Contenido": "Rayos y Retruecanos"
+	}
+]
+}
